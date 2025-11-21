@@ -33,4 +33,4 @@ The query returns:
 
 ## Deliverables
 - SQL Script (`task6.sql`)
-- Screenshot of MySQL result (`/screenshots/result.png`)
+- Screenshot of MySQL result (`/screenshots/Result.png`)
